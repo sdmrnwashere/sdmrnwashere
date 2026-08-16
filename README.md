@@ -108,7 +108,7 @@
 <h1 align="center">Sadman Rahman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E5306B&center=true&vCenter=true&width=560&lines=Co-Founder+%40+INSIA+Lab;Building+%26+scaling+foundational+AI+models;Signals+%26+TFRs+for+HCI;ML+%7C+DL+%7C+Signal+Processing;RAG+%7C+LangChain+%7C+LangGraph" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=E5306B&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Co-Founder+%40+INSIA+Lab;Building+%26+scaling+foundational+AI+models;Signals+%26+TFRs+for+HCI;ML+%7C+DL+%7C+Signal+Processing;RAG+%7C+LangChain+%7C+LangGraph" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -154,6 +154,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sdmrnwashere&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdmrnwashere&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sdmrnwashere&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdmrnwashere&amp;layout=compact&amp;theme=radical&amp;hide_border=true" alt="Top Languages" height="165" />
 </p>
