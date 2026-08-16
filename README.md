@@ -23,6 +23,6 @@ MATLAB &nbsp;·&nbsp; Scikit-Learn &nbsp;·&nbsp; Notion
 
 ## AI Stacks
 
-Machine Learning &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Signal Processing & Classification &nbsp;·&nbsp; Time-Frequency Analysis &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; LangGraph &nbsp;·&nbsp; RAG
+Machine Learning &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; LLM &nbsp;·&nbsp; Signal Processing &nbsp;·&nbsp; Time-Frequency Analysis &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; LangGraph &nbsp;·&nbsp; RAG &nbsp;·&nbsp; AI Agents 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:e2e8f0,100:f8fafc&amp;height=100&amp;section=footer" width="100%" />
